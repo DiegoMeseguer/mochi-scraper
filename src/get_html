@@ -1,0 +1,8 @@
+#!/bin/bash
+
+curl https://www.kurims.kyoto-u.ac.jp/~motizuki/anpi-kakunin-jouhou.html -o mochi.html
+
+if [ $? -ne 0 ]; then
+	echo "Failed to get the website!"
+	exit 1
+fi
