@@ -3,3 +3,5 @@ src/.env
 logs/
 environ/
 docs/docs.md
+src/today.txt
+src/yesterday.txt
