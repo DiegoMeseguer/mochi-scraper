@@ -7,7 +7,7 @@ https://www.kurims.kyoto-u.ac.jp/~motizuki/anpi-kakunin-jouhou.html
 ### Quickstart
 
 First, create the virtual env and install the packages
-```bash
+```sh
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
