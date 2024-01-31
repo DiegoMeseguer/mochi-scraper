@@ -18,10 +18,6 @@ Use the env_sample as a template to create this file
  
 For more information, see https://pypi.org/project/python-dotenv/
 
-Note: When running everything for the first time we need to manually  
-put the safety information of today in yesterday.txt in order to  
-bootstrap everything
-
 ### Usage
 
 Run get_html first to fetch today's website and then scraper.py
